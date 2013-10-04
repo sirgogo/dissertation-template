@@ -1,0 +1,43 @@
+\contentsline {chapter}{Acknowledgements}{ix}
+\contentsline {chapter}{Curriculum Vit\ae }{xi}
+\contentsline {chapter}{Abstract}{xiii}
+\contentsline {chapter}{List of Figures}{xvii}
+\contentsline {chapter}{List of Tables}{xix}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}What this dissertation is about}{1}
+\contentsline {section}{\numberline {1.2}What this dissertation is not about}{1}
+\contentsline {section}{\numberline {1.3}How to make a figure}{2}
+\contentsline {section}{\numberline {1.4}And this is a table}{2}
+\contentsline {chapter}{\numberline {2}Generative Models}{3}
+\contentsline {section}{\numberline {2.1}Introduction}{3}
+\contentsline {section}{\numberline {2.2}Methods}{9}
+\contentsline {subsection}{\numberline {2.2.1}Transiogram: Spatial Structure Measure}{10}
+\contentsline {subsection}{\numberline {2.2.2}Probabilistic Integration Method}{12}
+\contentsline {subsection}{\numberline {2.2.3}Conditional Independence}{14}
+\contentsline {subsection}{\numberline {2.2.4}Spatial Markov Chain Model}{15}
+\contentsline {section}{\numberline {2.3}A Spatial Dependence Model}{17}
+\contentsline {subsection}{\numberline {2.3.1}The Tau Model for Probabilistic Fusion of Information}{18}
+\contentsline {subsection}{\numberline {2.3.2}Connections with Other Methods}{21}
+\contentsline {subsubsection}{Weights of Evidence}{21}
+\contentsline {subsubsection}{Bayesian Networks}{22}
+\contentsline {subsection}{\numberline {2.3.3}Summary}{23}
+\contentsline {section}{\numberline {2.4}Results}{24}
+\contentsline {subsection}{\numberline {2.4.1}TG-generated reference categorical field}{26}
+\contentsline {subsection}{\numberline {2.4.2}SMC simulation}{27}
+\contentsline {subsection}{\numberline {2.4.3}Simulation with the Tau model}{28}
+\contentsline {section}{\numberline {2.5}Conclusions and Discussion}{31}
+\contentsline {section}{\numberline {2.6}Acknowledgements}{34}
+\contentsline {chapter}{\numberline {3}Discriminative Models}{43}
+\contentsline {section}{\numberline {3.1}Introduction}{43}
+\contentsline {section}{\numberline {3.2}Model}{48}
+\contentsline {subsection}{\numberline {3.2.1}Setting and Notation}{48}
+\contentsline {subsection}{\numberline {3.2.2}Multinomial Logistic Mixed Model for Categorical Spatial Data}{49}
+\contentsline {subsection}{\numberline {3.2.3}Covariance Functions for Latent Variables}{54}
+\contentsline {subsection}{\numberline {3.2.4}Summary}{56}
+\contentsline {section}{\numberline {3.3}Connections with Other Methods}{57}
+\contentsline {subsection}{\numberline {3.3.1}Indicator (co)Kriging}{57}
+\contentsline {subsection}{\numberline {3.3.2}Bayesian Maximum Entropy}{58}
+\contentsline {section}{\numberline {3.4}Case Study}{60}
+\contentsline {subsection}{\numberline {3.4.1}Synthetic Case}{63}
+\contentsline {subsection}{\numberline {3.4.2}Real Case}{64}
+\contentsline {section}{\numberline {3.5}Conclusion and Future Work}{68}
